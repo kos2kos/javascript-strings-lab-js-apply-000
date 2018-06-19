@@ -8,5 +8,5 @@ var topic = "space";
 
 var intro = "Let's talk about ";
 
-var conversation = `${topic}`;
+var conversation = intro + `${topic}`;
 
